@@ -1,0 +1,6 @@
+cls	=	Clear the commandPrompt
+dir(ls)	=	To list the files
+move "Sourcedes" "Destination"	=	Move the file to specific destination
+type nul>file.txt		=	To create a file
+mkdir filename			=	To create a directory
+cd dirname			=	Change the directory

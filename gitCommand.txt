@@ -1,0 +1,9 @@
+git config --global user.name "userName"		=	To give the userName
+git config --global user.email "useremail@gmail.com"	=	To give the email
+git init						=	To initialze the git in the local repo
+git status						=	To check the current status
+git add .						=	To add the all file into git
+git add filename					=	Add particular file
+git commit -m "Message"					=	To commit i.e(Input the meaagse)
+git log --oneline					=	To print all the commit
+git reset --hard previousNum				=	Reset to the git previousNum commit
