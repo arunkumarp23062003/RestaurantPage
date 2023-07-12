@@ -1,0 +1,17 @@
+#carouselExampleControls{
+    width:1000px;
+    height:500px;
+}
+.carousel-inner{
+    width:100%;
+    height:100%;
+}
+
+.carousel-item {
+    width:100%;
+    height:100%;
+}
+#carousel-img {
+    width:100%;
+    height:100%;
+}

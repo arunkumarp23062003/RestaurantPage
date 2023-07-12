@@ -7,3 +7,11 @@ git add filename					=	Add particular file
 git commit -m "Message"					=	To commit i.e(Input the meaagse)
 git log --oneline					=	To print all the commit
 git reset --hard previousNum				=	Reset to the git previousNum commit
+git config --global http.sslverify "false"		=	To not verify the ssl Certificate.
+git push origin master					=	To move to the origin folder.
+SSL CERTIFICATE.CER.P7B
+git remote set-url origin git@github.com:username/repository.git = To verify the ssh
+ssh -T git@github.com
+
+
+
